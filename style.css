@@ -22,11 +22,6 @@ body, html {
 /* First image (Logo. Full height) */
 .bgimg-1 {
 	filter: blur(2.5px);
-	/*Browser Specific*/
-	-webkit-filter: blur(2.5px);
-	-moz-filter: blur(2.5px);
-	-o-filter: blur(2.5px);
-	-ms-filter: blur(2.5px);
     background-image: url('./images/coding.jpg');
     min-height: 100%;
 }
